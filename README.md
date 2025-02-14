@@ -1,5 +1,25 @@
 # 💫 About Me:
-I'm Studing in Aptech as a Software Engineer<br>Building projects to strengthen my programming skills (e.g., web development, mobile apps, or software solutions).<br>Open-source projects to gain real-world experience.<br>Understanding advanced programming concepts or algorithms and debugging code or optimizing my projects.<br>Web development (HTML, CSS, JavaScript, etc.) or mobile app development.<br>My experience at Aptech and the projects I’ve worked on.<br>Did you know the first computer programmer was a woman? Ada Lovelace wrote the first algorithm for Charles Babbage's Analytical Engine in the 1840s!<br><br>
+
+🎓 **Software Engineering Student at Aptech**  
+🚀 Passionate about building innovative projects to strengthen my programming skills.  
+
+### 💡 What I’m Working On  
+- Developing **web applications**, **mobile apps**, and **software solutions**.  
+- Contributing to **open-source projects** to gain real-world experience.  
+- Exploring **advanced programming concepts**, **algorithms**, and **code optimization**.  
+
+### 🛠️ Technical Skills  
+- **Web Development**: HTML, CSS, JavaScript, React  
+- **Mobile Development**: Flutter, React Native  
+- **Backend Technologies**: FastAPI, React, Laravel  
+- **Databases**: MySQL, SQL  
+
+### 📌 My Experience at Aptech  
+At Aptech, I’ve worked on multiple hands-on projects that have enhanced my problem-solving abilities and technical expertise. My focus is on writing clean, efficient, and maintainable code.  
+
+### 🎓 Fun Fact  
+💡 Did you know? The first computer programmer was a woman! **Ada Lovelace** wrote the first algorithm for Charles Babbage's Analytical Engine in the 1840s.  
+
 
 
 ## 🌐 Socials:
