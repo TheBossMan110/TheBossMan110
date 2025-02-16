@@ -17,11 +17,6 @@
 ### 📌 My Experience at Aptech  
 At Aptech, I’ve worked on multiple hands-on projects that have enhanced my problem-solving abilities and technical expertise. My focus is on writing clean, efficient, and maintainable code.  
 
-### 🎓 Fun Fact  
-💡 Did you know? The first computer programmer was a woman! **Ada Lovelace** wrote the first algorithm for Charles Babbage's Analytical Engine in the 1840s.  
-
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1EJPGs7jvk/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/zakihaider21/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaki-haider-223584316) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syedzakihaider2006@gmail.com) 
 
