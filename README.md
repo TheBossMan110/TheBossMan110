@@ -2,7 +2,7 @@
 
 🎓 **Software Engineering Student at Aptech**  
 🚀 Passionate about building innovative projects to strengthen my programming skills.  
-
+ok
 ### 💡 What I’m Working On  
 - Developing **web applications**, **mobile apps**, and **software solutions**.  
 - Contributing to **open-source projects** to gain real-world experience.  
